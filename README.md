@@ -2,7 +2,7 @@
 
 My name is Roir, I'm currently finishing my studies in DAM (Multiplatform Application Development).
 
-![Banner Image](https://imgur.com/a/sy8uOaa)
+![Banner Image](https://i.imgur.com/mM9mkt0.png)
 
 ## Skills
 
