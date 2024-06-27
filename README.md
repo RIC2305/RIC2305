@@ -3,7 +3,7 @@
 My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Application Development).
 
 <div align="center">
-  <img src="https://i.imgur.com/sy8uOaa.jpg" alt="Banner Image">
+  <img src="https://i.imgur.com/mM9mkt0.png" alt="Banner Image">
 </div>
 
 ## Skills
