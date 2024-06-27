@@ -1,6 +1,8 @@
 ## Hello 👋
 
-My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Application Development).
+My name is Roir, I'm currently finishing my studies in DAM (Multiplatform Application Development).
+
+![Banner Image](https://imgur.com/a/sy8uOaa)
 
 ## Skills
 
@@ -14,4 +16,5 @@ My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Applica
 ## Contact
 
 You can contact me at: roi.igl.cos.1982@gmail.com
+
 
