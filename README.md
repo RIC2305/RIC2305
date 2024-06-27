@@ -8,7 +8,7 @@ My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Applica
 
 * Proficient in Java, C#, and some Python
 * Knowledgeable in markup languages (XML, CSS, etc.)
-* Developing applications in Android Studio, Desktop applications, and Video Games
+* Developing applications in Android Studio, desktop applications
 * Working with Xquery, SQL queries, and data access operations
 * Creating video games in Unity
 * Proficient in Odoo and enterprise management software
