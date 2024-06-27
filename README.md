@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Roir, I'm currently finishing my studies in DAM (Multiplatform Application Development).
+My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Application Development).
 
 ![Banner Image](https://i.imgur.com/mM9mkt0.png)
 
