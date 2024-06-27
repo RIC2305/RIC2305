@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**RIC2305/RIC2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Application Development).
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Proficient in Java, C#, and some Python
+* Knowledgeable in markup languages (XML, CSS, etc.)
+* Developing applications in Android Studio, Desktop applications, and Video Games
+* Working with Xquery, SQL queries, and data access operations
+* Creating video games in Unity
+* Proficient in Odoo and enterprise management software
+
+## Contact
+
+You can contact me at: roi.igl.cos.1982@gmail.com
+
