@@ -14,6 +14,8 @@ My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Applica
 * Working with Xquery, SQL queries, and data access operations
 * Creating video games in Unity
 * Proficient in Odoo and enterprise management software
+* Currently learning React and Node.js
+* Currently learning AWS and Azure
 
 ## Contact
 
