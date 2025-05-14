@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Roi, I'm currently finishing my studies in DAM (Multiplatform Application Development).
+My name is Roi, and I’m a Higher Technician in Multiplatform Application Development.
 
 <div align="center">
   <img src="https://i.imgur.com/mM9mkt0.png" alt="Banner Image" width="100%">
